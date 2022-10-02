@@ -1,21 +1,13 @@
-SearchBar {
+.SearchBar {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url('./background_search_desktop.jpg');
+  background-image: url('/Users/salimansherzad/yelpclone/src/components/SearchBar/background_search_desktop.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 25rem;
 }
 
-.SearchBar {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 25rem;
-}
 
 .SearchBar-sort-options ul {
   display: flex;
